@@ -1,1 +1,1 @@
-AutoFoundry/sensors/ only 1 file done (collector.py)
+AutoFoundry/sensors/ only 2 files done (collector.py)
