@@ -1,1 +1,2 @@
-AutoFoundry/sensors/ only 2 files done (collector.py)
+AutoFoundry/sensors/ done
+ai/ next
