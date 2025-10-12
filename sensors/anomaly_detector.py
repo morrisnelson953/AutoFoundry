@@ -39,3 +39,5 @@ class AnomalyDetector:
         mean = np.mean(arr)
         std = np.std(arr) or 1e-6
         return (arr - mean) / std
+
+
